@@ -1,0 +1,107 @@
+<!-- Today Class i learn:-
+ 1). Whar is Image Tags?
+ 2). What is Video Tags, Controls, autoplay, loop, muted?
+ 3). What is Audio Tags, Controls?
+ 4). What is iframe?
+ 5). What is From Tags, Text, Input, Button, Checkbox, Label, Number, Email, Date, Date-Time, Weeks, dropdowns (Select + Option),  Radio?
+ 6). What is Details and Summary Tags?
+ 07). What is Meta Tags?
+ 08). What is Title Tags and Favicon?
+  -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description"
+        content="This is a webpage about my learning journey in web development. It includes various HTML tags and elements that I have learned, such as image tags, video tags, audio tags, iframe, form tags, details and summary tags, meta tags, title tags, and favicon. The webpage also contains examples of how to use these tags effectively to create a visually appealing and functional website.">
+    <meta http-equiv="X-UA-Compatible" content="IE=7">
+    <!-- 08). Title Tags and Favicon -->
+    <title>Day 02</title>
+    <link rel="shortcut icon" href="./jay Shree Ram.jpg" type="image/x-icon">
+</head>
+
+<body>
+    <!-- 01). Image Tags:- -->
+    <img src="https://i.pinimg.com/1200x/6c/01/ff/6c01ffd48ad815cfb02cf7df689734e7.jpg" alt="jay Shree Ram"
+        height="200px"> <br><br>
+    <img src="./jay Shree Ram.jpg" alt="Jay Shree Ram" height="200px"> <br><br>
+
+    <!-- 02). Video Tags:- -->
+    <video src="./Radhe Radhe.mp4" controls autoplay loop muted height="350px"></video> <br><br>
+    <video controls autoplay loop muted height="350px" poster="poster.jpg">
+        <source src="./Radhe Radhe.mp4" type="video/mp4">
+        <track src="captions.vtt" kind="captions" srclang="en">
+    </video> <br><br>
+
+    <!-- 03). Audio Tags:- -->
+    <audio controls>
+        <source src="./Barota - Djjohal.fm.mp3" type="audio/mpeg">
+    </audio> <br><br>
+
+    <!-- 04). Iframe Tags:- -->
+    <iframe
+        src="https://en.wikipedia.org/wiki/?gad_source=1&gad_campaignid=23567450077&gbraid=0AAAABB0-3wEP5SiyhyEmwKIFDxw8ah31-&gclid=CjwKCAjwyYPOBhBxEiwAgpT8P5T4MVLzXSt6bm39OqarcE_9LTnmV5qEz4Ledq-H8z77lMXJw6T-PxoCDUwQAvD_BwE"
+        frameborder="0">
+    </iframe> <br><br>
+
+    <!-- 05). Form Tags:- -->
+    <form>
+        <label for="name">Name*:</label>
+        <input required type="text" id="name" placeholder="Enter Your Name"> <br><br>
+        <label for="password">Password*:</label>
+        <input required type="password" id="password" placeholder="Enter Your Password"> <br><br>
+        <label for="email">Email*:</label>
+        <input required type="text" id="email" placeholder="Enter Your Email"> <br><br>
+        <label for="number">Phone Number:</label>
+        <input type="number" id="number" placeholder="Enter Your Phone Number"> <br><br>
+        <label for="date">Date:</label>
+        <input type="date" id="date"> <br><br>
+        <label for="datetime-local">DateTime:</label>
+        <input type="datetime-local" id="datetime-local"> <br><br>
+        <label for="week">Week:</label>
+        <input type="week" id="week"> <br><br>
+        <label for="checkboxes">Favorite Programming Languages:</label> <br>
+        <input type="checkbox" id="checkboxs" name="checkboxs" value="javascript">
+        <label for="checkboxs">JavaScript</label> <br>
+        <input type="checkbox" id="checkboxs" name="checkboxs" value="python">
+        <label for="checkboxs">Python</label> <br>
+        <input type="checkbox" id="checkboxs" name="checkboxs" value="java">
+        <label for="checkboxs">Java</label>
+        <br><br>
+        <label for="dropdown">Select Your Favorite Language:</label> <br>
+        <select id="dropdown">
+            <option value="javascript">JavaScript</option>
+            <option value="python">Python</option>
+            <option value="java">Java</option>
+        </select>
+        <br><br>
+        <label for="Gender">Gender:</label> <br>
+        <input type="radio" id="male" name="gender">
+        <label for="male">Male</label> <br>
+        <input type="radio" id="female" name="gender">
+        <label for="female">Female</label> <br>
+        <input type="radio" id="other" name="gender">
+        <label for="other">Other</label>
+        <br><br>
+
+        <button type="submit">Submit</button>
+
+    </form> <br><br>
+
+    <!-- 06). Details and Summary Tags:- -->
+    <details>
+        <summary>Introduction Myself and My works:-</summary>
+        <p>Hello, I am Ajeet. I am a web developer.</p>
+        <p>I have experience in building responsive and user-friendly websites using HTML, CSS, and JavaScript.</p>
+        <p>I am passionate about creating visually appealing and functional web applications that provide a seamless
+            user experience.</p>
+        <p>I am always eager to learn new technologies and stay updated with the latest trends in web development.</p>
+        <p>I am a team player and enjoy collaborating with other developers to create innovative solutions.</p>
+    </details> <br><br>
+</body>
+
+</html>
