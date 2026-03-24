@@ -5,7 +5,8 @@
  4). What is DIV in CSS?
  5). What is ID and Class? */
 
-/* 01). CSS Template */
+
+/*  3). How to download google fonts and any websites fonts? */
 @font-face {
     font-family: horrer;
     src: url(./Shadow\ of\ the\ Deads\ Over.ttf);
@@ -13,13 +14,15 @@
 
 
 
+/* 01). CSS Template */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-html, body {
+html,
+body {
     height: 100%;
     width: 100%;
 }
