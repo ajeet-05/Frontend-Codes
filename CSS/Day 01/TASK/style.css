@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f3f4f6;
+    margin: 0;
+}
+
+/* Header */
+header {
+    background: #1e293b;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 32px;
+}
+
+header p {
+    margin-top: 8px;
+    color: #cbd5e1;
+}
+
+/* Cards */
+.card {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+/* Section Colors */
+.about {
+    background: #e5e7eb;
+}
+
+.education {
+    background: #bfdbfe;
+}
+
+.skills {
+    background: #fef3c7;
+}
+
+.projects {
+    background: #ddd6fe;
+}
+
+.contact {
+    background: #bbf7d0;
+}
+
+/* Items */
+.item {
+    background: white;
+    margin: 10px auto;
+    padding: 10px;
+    width: 60%;
+    border-radius: 5px;
+    font-weight: 500;
+}

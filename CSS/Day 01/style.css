@@ -1,0 +1,57 @@
+/* Today Class i learn:-
+ 1). How to generate CSS Template.
+ 2). What is Color, text-align, font-size, font-family, font-weight,  and background-color Properties?
+ 3). How to download google fonts and any websites fonts?
+ 4). What is DIV in CSS?
+ 5). What is ID and Class? */
+
+/* 01). CSS Template */
+@font-face {
+    font-family: horrer;
+    src: url(./Shadow\ of\ the\ Deads\ Over.ttf);
+}
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+/* 02). Color, font-style, text-align, font-size, font-family, font-weight, text-transformation and background-color Properties */
+h1 {
+    color: red;
+    background-color: blue;
+    /* normal font-size */
+    /* font-family: 'Courier New', Courier, monospace;  */
+    /* 03). download fontsize from google */
+    font-family: horrer;
+    font-size: 50px;
+    font-weight: lighter;
+    font-style: italic;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+/* 04). DIV */
+div {
+    color: rgb(0, 239, 24);
+}
+
+
+/* 05). ID and Class */
+#nothing {
+    color: green;
+    /* background-color: yellow; */
+}
+
+.everything {
+    color: purple;
+    background-color: rebeccapurple;
+}
