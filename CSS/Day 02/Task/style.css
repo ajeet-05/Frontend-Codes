@@ -1,0 +1,47 @@
+@font-face {
+    font-family: love;
+    src: url(../BeautifulPeoplePersonalUse-dE0g.ttf );
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+#hero {
+    height: 100%;
+    width: 100%;
+    padding: 50px;
+    background-image: url(https://images.unsplash.com/photo-1643726698026-8cf46a9a5e37?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+h1 {
+    font-family: love;
+    font-size: 100px;
+    color: white;
+    font-weight: 100;
+}
+
+button {
+    font-size: 20px;
+    padding: 10px 40px;
+    color: white;
+    background-color: #A84606;
+    border: 2px solid white;
+    font-weight: 600;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}

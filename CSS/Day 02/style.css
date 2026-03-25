@@ -1,0 +1,33 @@
+/* Today Class i learn:-
+ 1). What is background, linear-gradient, conic-gradient, radial-gradient, background-image, border, border-radius, background-position, background-repeat, and background-size?
+ 2). What is Margin and Padding? */
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-image: url(./javier.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#box {
+    background-color: pink;
+    height: 500px;
+    width: 500px;
+    margin: 20px 50px;
+    padding: 50px 25px;
+    /* background: linear-gradient(to right, rgb(102, 0, 255), green); */
+    /* background: conic-gradient(red, yellow, blue); */
+    background: radial-gradient(green, red, black);
+    border: 2px solid white;
+    border-radius: 20px;
+}
