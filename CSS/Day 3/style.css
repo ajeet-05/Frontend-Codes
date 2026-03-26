@@ -8,32 +8,56 @@
     box-sizing: border-box;
 }
 
-html, body {
+html,
+body {
     height: 100%;
     width: 100%;
 }
 
 #box1 {
     width: 100%;
-    background-color: red;
+    /* height: 3000px; */
+    background-color: blue;
 }
 
 #box2 {
     width: 100%;
     height: 2000px;
-    background-color: rgb(19, 245, 7);
+    background-color: rgb(255, 0, 187);
 }
 
 #sticky {
     position: sticky;
-    top: 50px;
-    width: 300px;
+    top: 10px;
+    width: 200px;
     height: 200px;
-    background-color: chocolate;
+    background-color: brown;
 }
 
 #box3 {
-    height: 2000px;
     width: 100%;
+    height: 1500px;
+    background-color: rgb(0, 208, 255);
+}
+
+button {
+    position: fixed;
+    top: 5px;
+    height: 50px;
+    width: 100px;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: coral;
     background-color: blue;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+#box4 {
+    width: 100%;
+    height: 1500px;
+    background-color: rgb(255, 0, 187);
 }
