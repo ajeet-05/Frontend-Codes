@@ -1,0 +1,47 @@
+/* Today Class i learn:-
+ 1). What is display: flex;
+ 2). What is justify-content 
+ 3). What is align-items*/
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+#parent {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#box1 {
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+
+}
+
+#box2 {
+
+    height: 200px;
+    width: 200px;
+    background-color: rgb(57, 9, 230);
+}
+
+#box3 {
+
+    height: 200px;
+    width: 200px;
+    background-color: rgb(230, 9, 138);
+}
