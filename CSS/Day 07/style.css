@@ -1,0 +1,61 @@
+/* Today Class i learn:-
+ 1). What is transform: rotate, rotate x and y, scale? 
+ 2). What is transition?
+ 3). What is overflow?
+ 4). What is perspective?*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+#parent {
+    height: 100%;
+    width: 100%;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    /* perspective: 1000px; */
+}
+
+.child {
+    height: 300px;
+    width: 300px;
+    background-color: blueviolet;
+    border-radius: 40px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    -ms-border-radius: 40px;
+    -o-border-radius: 40px;
+    overflow: hidden;
+
+
+    /* transform: scale(2); */
+
+    /*transform: rotatey(150deg);
+    -webkit-transform: scale(2);
+    -moz-transform: scale(2);
+    -ms-transform: scale(2);
+    -o-transform: scale(2);
+    */
+}
+
+.child img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.bottom {
+    height: 50%;
+    width: 100px;
+    background-color: aqua;
+}
