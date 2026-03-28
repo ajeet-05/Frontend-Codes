@@ -53,9 +53,3 @@ body {
     width: 100%;
     object-fit: cover;
 }
-
-.bottom {
-    height: 50%;
-    width: 100px;
-    background-color: aqua;
-}
