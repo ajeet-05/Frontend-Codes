@@ -1,0 +1,54 @@
+/* Today Class i learn:-
+ 1). What is Display: grid?
+ 2). What is gird-template-columns, and grid-template-rows,?
+ 3). What is  grid gap,column gap, and row gap,?
+ 4). What is repeat() function, minmax() function,? 
+ 5). What is  grid-column-start, grid-column-end, grid-row-start, grid-row-end, and shorthand: grid-column and grid-row? 
+ 6). What is grid-templates-areas, grid-area? 
+ 7). What is Alignment: justify-item, justify-content, align-item and align-content, unit: %, px, fr, and auto?*/
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+#main {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    display: grid;
+
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-rows: 80px auto 60px;
+
+    grid-template-areas: "header header header" "nav nav aside" "footer footer footer";
+    gap: 10px;
+    padding: 20px;
+}
+
+header {
+    grid-area: header;
+    background-color: royalblue;
+}
+
+nav {
+    grid-area: nav;
+    background-color: tomato;
+}
+
+aside {
+    grid-area: aside;
+    background-color: green;
+}
+
+footer {
+    grid-area: footer;
+    background-color: yellow;
+}
