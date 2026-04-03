@@ -1,0 +1,43 @@
+/* Today Class i learn:-
+ 1). What is Units:- 
+  i). px (pixels):- fixed.
+  ii). % (percent):- depends on parent.
+  iii). vm (viewport width):- depends on viewport's width.
+  iv). vh (viewport height):- depends on viewport's height.
+  v). vmax (viewport maximum):- depends on maximum viewport.
+  vi). vmin (viewport minimum):- depends on minimm viewport.
+  vii). em:- according to the parent and can be controlled by parent.
+  viii). rem:- according to the root and can be controlled by root.*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.parent {
+    height: 400px;
+    width: 400px;
+    background-color: brown;
+}
+
+h1 {
+    height: 50%;
+    width: 50%;
+
+    /* height: 50vm;
+    width: 50vh; */
+
+    /* height: 50vmax;
+    width: 50vmin; */
+/* 
+    height: 100em;
+    width: 50rem; */
+}
