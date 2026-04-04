@@ -1,0 +1,83 @@
+// What i learn today:-
+//  1). What is SCSS?
+//  2). What is Nesting, Mixin, and Partials & imports in scss?
+
+@import "button";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+// 01). Nesting scss
+
+// main {
+//     height: 100%;
+//     width: 100%;
+//     display: flex;
+//     justify-content: center;
+//     align-items: center;
+//     background-color: black;
+// }
+
+// main section {
+//     height: 50%;
+//     width: 50%;
+//     background-color: rgb(130, 119, 119);
+//     display: flex;
+//     justify-content: center;
+//     align-items: center;
+// }
+
+// main section h1 {
+//     display: flex;
+//     justify-content: center;
+//     align-items: center;
+//     color: red;
+// }
+
+// 02). Mixin scss
+
+// @mixin flex-center() {
+//     display: flex;
+//     align-items: center;
+//     justify-content: center;
+// }
+
+// main {
+//     height: 100%;
+//     width: 100%;
+//     background-color: black;
+
+//     @include flex-center();
+// }
+
+// main section {
+//     height: 50%;
+//     width: 50%;
+//     background-color: rgb(130, 119, 119);
+
+//     @include flex-center();
+// }
+
+// main section h1 {
+//     color: red;
+
+//     @include flex-center();
+// }
+
+// 03).Partials & imports
+
+.btn1 {
+  @include button-style(blue, rgb(234, 226, 226), 30px);
+}
+
+.btn2 {
+  @include button-style(red, black, 25px);
+}
