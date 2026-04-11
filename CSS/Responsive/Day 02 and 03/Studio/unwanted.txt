@@ -1,0 +1,9 @@
+twitter:- <i class="ri-twitter-x-line"></i>
+
+linkedin:- <i class="ri-linkedin-box-fill"></i>
+
+intagram:- <i class="ri-instagram-line"></i>
+
+
+
+original webiste live link:- https://alvy-template.webflow.io/studio#philosophy
