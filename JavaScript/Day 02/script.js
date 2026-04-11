@@ -5,3 +5,4 @@
 // 04). script tag use karke attach kar na h JS.
 // 05). JS ko browser me run karna.
 // 06). what is scripting language, programming language, styling language and markup language?
+

@@ -78,3 +78,31 @@
 // console.clear() :-
 
 // console.clear();
+
+// strings :-
+
+let name = "Ajeet";
+
+
+// slice, template string(template literals), split, replace and includes :-
+
+// slice() :-
+console.log(name.slice(0,3));
+
+// template string(template literals) :-
+console.log(`Hello, ${name}!`);
+
+// split :-
+
+let fruits = "apple, grapes, mango";
+console.log(fruits.split(","));
+
+// replace() :-
+
+console.log(name.replace("A", "K"));
+
+// includes() :-
+
+console.log(name.includes("Kuntal"));
+
+// 
