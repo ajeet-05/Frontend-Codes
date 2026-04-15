@@ -27,7 +27,7 @@
 
 // const :-
 
-const ak = 10; // decalaration and initialization
+// const ak = 10; // decalaration and initialization
 
 // const ak = 5; // redecalaration and reinitialization is not allowed in const.
 
