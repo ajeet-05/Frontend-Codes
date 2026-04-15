@@ -7,18 +7,19 @@
 
 // 01). var, let and const :-
 // var :-
-// var a;// decalaration
+
+// var a; // decalaration
 // a = 5; // initialization
-// var a = 5; // decalaration and initialization
 
 // a = 10; // reinitialization
-
-// var a = 10; // redecalaration
+// var a = 20; // redecalaration
 
 // let :-
 
 // let b; // decalaration
 // b = 5; // initialization
+
+// b = 10; // reinitialization
 // let b = 5; // redecalaration not allowed in let.
 
 
@@ -75,25 +76,25 @@
 
 // strings :-
 
-let name = "Ajeet";
+// let name = "Ajeet";
 
 // slice, template string(template literals), split, replace and includes :-
 
 // slice() :-
-console.log(name.slice(0, 3));
+// console.log(name.slice(0, 3));
 
 // template string(template literals) :-
-console.log(`Hello, ${name}!`);
+// console.log(`Hello, ${name}!`);
 
 // split :-
 
-let fruits = "apple, grapes, mango";
-console.log(fruits.split(","));
+// let fruits = "apple, grapes, mango";
+// console.log(fruits.split(","));
 
 // replace() :-
 
-console.log(name.replace("A", "K"));
+// console.log(name.replace("A", "K"));
 
 // includes() :-
 
-console.log(name.includes("Kuntal"));
+// console.log(name.includes("Kuntal"));
