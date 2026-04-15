@@ -21,7 +21,7 @@ console.log(mystring); // "123"
 
 // 16. Create a boolean variable and print its type.
 let boolean1 = true;
-console.log(typeof boolean1);
+console.log(typeof boolean1); // boolean
 
 // 17. Create a string, number, and boolean and print them together.
 let str = "Ajeet";
@@ -35,7 +35,7 @@ console.log(c); // undefined
 
 // 19. Assign undefined to a variable and print its type.
 c = undefined;
-console.log(c); // 10
+console.log(c); // undefined
 
 // 20. Create an array using const, modify its elements, and print it.
 const arr = ["Ajeet", "Singh", "Kuntal"];
@@ -43,4 +43,4 @@ arr[0] = "Ak";
 arr[1] = "Jaat";
 arr[2] = "Shab";
 arr.push(5);
-console.log(arr); //  ['Ajeet', 'Singh', 'Kuntal', 5]
+console.log(arr); //  ['AK', 'Jaat', 'Shab', 5]
