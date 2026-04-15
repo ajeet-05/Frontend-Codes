@@ -1,12 +1,13 @@
 // 1. Create two variables for your full name and favorite hobby. Print: "My name is <name> and my hobby is <hobby>"
 let fullName = "Ajeet Singh Kuntal";
 let hobby = "Coding and Listing Music";
-console.log(fullName, hobby); // Ajeet Singh Kuntal Coding and Listing Music
+console.log(`My name is ${fullName} and my hobby is ${hobby}`); // My name is Ajeet Singh Kuntal and my hobby is Coding and Listing Music
+
 
 // 2. Perform the calculation 45 * 2 - 10 and print the result.
 var cal = 45*2-10;
 console.log(cal); // 80
-
+    
 // 3. Print the current year using JavaScript's Date object.
 const d = new Date();
 let year = d.getFullYear();
