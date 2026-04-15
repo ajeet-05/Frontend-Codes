@@ -19,6 +19,14 @@
 // Form submit → data check ho
 // Page reload bina data update ho
 
+// 👨‍💻 JS kisne banayi aur kyun?
+// JS ko banaya tha Brendan Eich ne
+// Company: Netscape
+// Sirf 10 din me banayi thi 😲
+// Purpose:
+// Websites ko dynamic aur interactive banana
+// Example: button click pe kuch ho, form validate ho, etc.
+
 // 02). why it is important :-
 // Ans:- Har browser me support hoti hai
 // Frontend ka core part hai

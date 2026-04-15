@@ -5,7 +5,6 @@
 // 04). slice, template string(template literals), split, replace and includes?
 // 05). statement expression?
 
-
 // 01). var, let and const :-
 // var :-
 // var a;// decalaration
@@ -19,23 +18,18 @@
 // let :-
 
 // let b; // decalaration
-
 // b = 5; // initialization
+// let b = 5; // redecalaration not allowed in let.
+
 
 // b = 10; // reinitialization
-
-// redecalaration not allowed in let.
 
 
 // const :-
 
-// c = 5; // decalaration
+const ak = 10; // decalaration and initialization
 
-// c = 5; // initialization
-
-// const c = 5; // decalaration and initialization
-
-// redecalaration and reinitialization is not allowed in const.
+// const ak = 5; // redecalaration and reinitialization is not allowed in const.
 
 
 
@@ -83,11 +77,10 @@
 
 let name = "Ajeet";
 
-
 // slice, template string(template literals), split, replace and includes :-
 
 // slice() :-
-console.log(name.slice(0,3));
+console.log(name.slice(0, 3));
 
 // template string(template literals) :-
 console.log(`Hello, ${name}!`);
@@ -104,5 +97,3 @@ console.log(name.replace("A", "K"));
 // includes() :-
 
 console.log(name.includes("Kuntal"));
-
-// 
