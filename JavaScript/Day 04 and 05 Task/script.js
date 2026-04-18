@@ -12,9 +12,8 @@ console.log(c); // Assignment to constant variable.
 
 // 3. Create a variable inside curly braces using let and log it outside.
 {
-    let d = "Ajeet"; // because it is a block scope so it is not access from the outside of the brackes.
+  let d = "Ajeet"; // because it is a block scope so it is not access from the outside of the brackes.
 }
-
 
 // 4. Predict output before running.
 console.log(d); //  d is not defined
@@ -23,7 +22,6 @@ console.log(d); //  d is not defined
 const PI = 3.14;
 const baseURL = 259347472;
 const AdharCardNo = 259347472;
-
 
 // B. Logging and Interaction (console, alert, prompt) :-
 // 1. Log name, age, and city using console.log, console.info, console.warn.
@@ -41,7 +39,6 @@ console.log(typeof Username);
 // 4. Try: let age = prompt(“Enter age:”); console.log(age + 5); observe what happens.
 let age = prompt("Enter age: ");
 console.log(age + 5);
-
 
 // C. orking with Strings :-
 // 1. let msg = “I love Sheryians”;
@@ -63,21 +60,20 @@ console.log(`Hey ${nm}, welcome to js lactures!`);
 // 6. Check if msg.includes(“love”)
 console.log(msg.includes("love"));
 
-
 // D. Statements and Semicolons :-
 // 1. Remove semicolon and check if code still runs.
-let z = 5
-console.log(z)
+let z = 5;
+console.log(z);
 
 // 2. Combine two statements in one line and see if it breaks.
-let x = 5; let y = 10;
+let x = 5;
+let y = 10;
 console.log(x, y);
 
 // 3. Write 3 console.log statements without semicolons and predict output.
-console.log("Ajeet")
-console.log("Singh")
-console.log("Kuntal")
-
+console.log("Ajeet");
+console.log("Singh");
+console.log("Kuntal");
 
 // E. Comments :-
 // 1. Write your name as a single-line comment.
@@ -86,7 +82,6 @@ console.log("Kuntal")
 // 2. Write a 3-line comment explaining what your code does.
 
 // 3. Hide one console.log using comment and check output.
-
 
 // F. Expressions vs Statements :-
 // 1. Type 5 + 10 (expression).
@@ -133,11 +128,10 @@ console.log(typeof age);
 // 4. Try adding a number and string together.
 console.log("Ajeet" + 5);
 
-
 // H. Special Values :-
 // 1. Log 1 / 0, 0 / 0, Number(“abc”), undefined + 1
-console.log(1/0);
-console.log(0/0);
+console.log(1 / 0);
+console.log(0 / 0);
 console.log(Number("abc"));
 console.log(undefined + 1);
 
@@ -154,7 +148,7 @@ console.log(e, f);
 
 // 2. let obj1 = { name: “Harsh” }; let obj2 = obj1; obj2.name = “Sheryians”; console.log(obj1.name)
 let obj1 = {
-    name : "Harsh"
+  name: "Harsh",
 };
 obj2 = obj1;
 obj2.name = "Sheriyans";
