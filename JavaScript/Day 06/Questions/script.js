@@ -57,8 +57,8 @@ console.log(c++); // 10
 console.log(c); // 11
 
 // 9. Output:
-// let a = 10;
-// console.log(++a);
+// let d = 10;
+// console.log(++d);
 
 let d = 10;
 console.log(++d); // 11
@@ -171,11 +171,14 @@ console.log(typeof NaN); // number
 
 let k = 10;
 let l = "10";
-console.log(k + l - k); // 100
+console.log(k + l - k); // 1000
 
 // 26. Output:
 // console.log("5" * "2");
 // console.log("5" / "2");
+
+console.log("5" * "2"); // 10
+console.log("5" / "2"); // 2.5
 
 // 27. Predict:
 // console.log(true + true);
