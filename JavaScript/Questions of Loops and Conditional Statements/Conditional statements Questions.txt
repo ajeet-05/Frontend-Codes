@@ -1,0 +1,57 @@
+🔀 Conditional Statements (Basic -> Intermediate → Advanced)
+🔹 Basic Level (1–10)
+1. Return "positive", "negative", or "zero" for a number.
+2. Convert Celsius to Fahrenheit using a function.
+3. Return the average of numbers in an array.
+4. Check if a string is a palindrome.
+5. Check whether a number is prime.
+6. Count total words in a sentence.
+7. Return the longest word from a string.
+8. Remove falsy values from an array.
+9. Convert a string to camelCase.
+10. Generate a random number between two values.
+
+🔀 Conditional Statements Questions
+🔹 Intermediate Level (11-30)
+11. Check if a number is positive, negative, or zero.
+12. Check whether a number is even or odd.
+13. Find the largest of two numbers.
+14. Find the largest of three numbers using nested if-else.
+15. Check if a year is a leap year.
+16. Check if a character is vowel or consonant.
+17. Check if a number is divisible by 5 and 11.
+18. Check whether a number is multiple of 3 or 7.
+19. Find absolute value of a number using condition.
+20. Check if a person is eligible to vote (age ≥ 18).
+21. Calculate grade based on marks: ≥ 90:A ≥ 75:B ≥ 50:C else Fail.
+22. Find profit or loss based on cost price and selling price.
+23. Check if a number lies between two given numbers.
+24. Check if a character is uppercase, lowercase, digit, or special character.
+25. Check if a triangle is valid (sum of angles = 180).
+26. Check if a number is divisible by both 3 and 5.
+27. Find the smallest of three numbers.
+28. Check if a number is a two-digit number.
+29. Convert temperature (Celsius ↔ Fahrenheit) using condition.
+30. Simple calculator using switch (add, subtract, multiply, divide).
+
+🔹 Advanced Level (31–50)
+11. Check if a number is prime using condition inside loop.
+12. Check if a number is palindrome using condition + loop.
+13. Find the second largest of three numbers.
+14. Determine type of triangle (equilateral, isosceles, scalene).
+15. Check if three sides can form a right-angled triangle.
+16. Electricity bill calculation based on slabs: 0–100 units → ₹5/unit 101–200 → ₹7/unit Above 200 → ₹10/unit
+17. Income tax calculation based on salary slabs.
+18. Menu-driven program using switch (ATM simulation).
+19. Find roots of quadratic equation using discriminant: real & distinct real & equal imaginary
+20. Check if a number is Armstrong number using conditions.
+21. Check if a number is perfect number.
+22. Validate login system (username & password match).
+23. Ticket booking system with age-based discount.
+24. Determine season based on month input.
+25. Check if a date is valid (day, month, year conditions).
+26. Find greatest among four numbers using nested conditions.
+27. Check if a number is divisible by 2, 3, or both with proper message.
+28. Student result system: Pass/Fail Division (1st, 2nd, 3rd)
+29. Rock-Paper-Scissors game logic using conditions.
+30. Determine if a point lies inside, outside, or on a circle.

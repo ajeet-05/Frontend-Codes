@@ -1,0 +1,56 @@
+📊 Object Questions (Basic -> Intermediate -> Advanced)
+🔹 Basic Level (1–10)
+1. Create a person object and print it.
+2. Add a new property to an object.
+3. Access object property using bracket notation.
+4. Delete a property from an object.
+5. Print all object keys using Object.keys().
+6. Create an array of book objects.
+7. Print the author of the second book.
+8. Check if a key exists in an object.
+9. Return the total number of keys in an object.
+10. Merge objects using Object.assign().
+
+🔹 Intermediate Level (11–30)
+11. Create an object for a student with properties: name, age, marks.
+12. Access and print all properties of an object.
+13. Add a new property to an existing object.
+14. Delete a property from an object.
+15. Update values inside an object.
+16. Count total number of properties in an object.
+17. Check if a property exists in an object.
+18. Iterate over object properties using loop.
+19. Clone an object (shallow copy).
+20. Merge two objects into one.
+21. Convert object keys into array.
+22. Convert object values into array.
+23. Find sum of all numeric values in an object.
+24. Create an object with nested objects (e.g., address inside user).
+25. Access nested object properties.
+26. Check if object is empty.
+27. Freeze an object and try modifying it.
+28. Use this keyword inside object method.
+29. Create a method inside object and call it.
+30. Convert object to JSON string and back.
+
+🔹 Advanced Level (31–50)
+31. Deep clone an object (handle nested objects).
+32. Compare two objects for equality.
+33. Flatten a nested object.
+34. Group array of objects by a property (e.g., age).
+35. Sort array of objects by a property (e.g., salary).
+36. Find object with maximum value in array.
+37. Remove duplicate objects from an array.
+38. Create a constructor function/class for objects.
+39. Implement inheritance using classes.
+40. Use getters and setters in object.
+41. Implement encapsulation using private properties.
+42. Use static methods in class.
+43. Create immutable objects.
+44. Validate object properties (e.g., email, phone).
+45. Create a dynamic object from user input.
+46. Convert array into object (key-value mapping).
+47. Transform object structure (e.g., rename keys).
+48. Implement a simple cache using object.
+49. Deep merge two nested objects.
+50. Build a mini CRUD system using array of objects.

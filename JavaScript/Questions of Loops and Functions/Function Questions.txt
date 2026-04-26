@@ -1,0 +1,68 @@
+⚙️ 40 Function-Based Questions (Basic -> Intermediate → Advanced → Hard)
+🔹 Level Noob: Strong Intermediate (1–10)
+
+1. Write a function that returns "even" or "odd".
+2. Write a function to calculate the area of a circle.
+3. Write a function that returns the sum of an array.
+4. Write a function to check if a string starts with a character.
+5. Write a function that returns the larger of two numbers.
+6. Write a recursive function to calculate factorial.
+7. Write a function to reverse a string.
+8. Write a function that returns the largest number in an array.
+9. Write a function that converts a string to kebab-case.
+10. Write a helloWorld function that prints "Hello World".
+
+🔹 Level 1: Strong Intermediate (11–25)
+
+(Focus: modular thinking, parameter handling, return values)
+
+11. Write a function that returns the sum of digits of a number (no global variables).
+12. Create a function to check if a number is perfect square.
+13. Write a function that returns count of vowels in a string.
+14. Create a function that swaps two numbers without using a third variable.
+15. Write a function that returns largest digit in a number.
+16. Create a function that checks if a string is anagram of another string.
+17. Write a function that returns sum of all even numbers in an array.
+18. Create a function that removes duplicate characters from a string.
+19. Write a function that returns reverse of an array (without using built-in reverse).
+20. Create a function to count frequency of each element in array.
+22. Write a function that returns second smallest element in array.
+23. Create a function that checks if a number is Harshad (Niven) number.
+23. Write a function to convert decimal to binary (without built-in).
+24. Create a function that finds all divisors of a number and returns them.
+25. Write a function that checks if a string is pangram.
+
+🔹 Level 2: Advanced Logic (26–40)
+
+(Focus: multiple function calls, composition, edge cases)
+
+26. Write a function that returns GCD of two numbers using another helper function.
+27. Create a function that returns LCM using GCD function.
+28. Write a function to merge two sorted arrays and return a new sorted array.
+29. Create a function that returns intersection of two arrays.
+30. Write a function that returns all prime numbers up to N using helper function isPrime().
+31. Create a function that rotates an array by K positions.
+32. Write a function that returns longest word in a sentence.
+33. Create a function that returns count of subarrays with sum = K.
+34. Write a function that validates password strength (length, uppercase, digit, special char).
+35. Create a function that returns first non-repeating character in a string.
+36. Write a function that returns maximum difference between two elements (j > i).
+37. Create a function that returns missing number from 1 to N.
+38. Write a function that returns pair of numbers whose sum is closest to target.
+39. Create a function that checks if array is monotonic (increasing/decreasing).
+40. Write a function that returns majority element (> n/2 times).
+
+🔹 Level 3: Hard / Interview-Level (41–50)
+
+(Focus: abstraction, recursion, optimization, real-world logic)
+
+41. Write a function that returns all subsets of a set (power set).
+42. Create a function that returns permutations of a string.
+43. Write a function that implements binary search recursively.
+44. Create a function that returns kth largest element without sorting.
+45. Write a function that detects cycle in an array (Floyd’s cycle detection logic).
+46. Create a function that returns maximum subarray sum (Kadane’s Algorithm).
+47. Write a function that finds longest palindromic substring.
+48. Create a function that returns minimum number of coins for a value (greedy/DP mix).
+49. Write a function that evaluates a mathematical expression string (e.g., "3+5*2").
+50. Create a function that simulates LRU Cache using functions (get/put).

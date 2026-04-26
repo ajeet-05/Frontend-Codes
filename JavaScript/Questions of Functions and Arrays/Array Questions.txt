@@ -1,0 +1,56 @@
+📊 Array Questions (Basic -> Intermediate -> Advanced)
+🔹 Basic Level (1–10)
+1. Create an array of movies and print using join(" - ").
+2. Print the element at index 1 of an array.
+3. Add two elements at the beginning using unshift().
+4. Remove the last element using pop().
+5. Extract the first three elements using slice().
+6. Find the index of number 5 using indexOf().
+7. Check if 3 exists using includes().
+8. Merge two arrays using concat().
+9. Sort an array of numbers in ascending order.
+10. Copy an array using spread operator and compare references.
+
+🔹 Intermediate Level (11–30)
+11. Find the maximum element in an array.
+12. Find the minimum element in an array.
+13. Calculate the sum of all elements.
+14. Calculate the average of array elements.
+15. Count even and odd numbers in an array.
+16. Reverse an array (without using extra space).
+17. Search an element using linear search.
+18. Find the second largest element in an array.
+19. Count frequency of a given element.
+20. Find all duplicate elements in an array.
+21. Remove duplicates from an array.
+22. Sort an array in ascending order (basic approach).
+23. Merge two arrays.
+24. Find common elements between two arrays.
+25. Rotate array by one position (left/right).
+26. Check if array is sorted or not.
+27. Move all zeros to the end of array.
+28. Find index of a given element.
+29. Copy elements from one array to another.
+30. Print array elements in reverse order.
+
+🔹 Advanced Level (31–50)
+31. Rotate array by K positions.
+32. Find the missing number in array (1 to N).
+33. Find all pairs with given sum.
+34. Find subarray with maximum sum (Kadane’s Algorithm).
+35. Find intersection of two arrays.
+36. Find union of two arrays.
+37. Find majority element (> n/2 times).
+38. Find equilibrium index (sum left = sum right).
+39. Rearrange array: positive and negative alternate.
+40. Find longest consecutive sequence.
+41. Find peak element in array.
+42. Find first repeating element.
+43. Find first non-repeating element.
+44. Sort array of 0s, 1s, and 2s (Dutch National Flag).
+45. Find minimum difference between two elements.
+46. Find triplets with sum equal to target.
+47. Check if array contains a subarray with sum zero.
+48. Merge overlapping intervals.
+49. Find maximum product subarray.
+50. Implement binary search (iterative using loop).

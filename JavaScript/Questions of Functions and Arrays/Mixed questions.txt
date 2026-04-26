@@ -1,0 +1,56 @@
+🔥 50 Arrays + Functions Questions (Intermediate → Advanced → Killer)
+🔹 Level 1: Strong Intermediate (1–15)
+1. Write a function that returns index of first element greater than all previous elements.
+2. Create a function that replaces each element with nearest greater element on right.
+3. Write a function that returns sum of elements at prime indices.
+4Create a function that finds minimum distance between two given values in array.
+5Write a function that returns array where each element = count of smaller elements to its right.
+6. Create a function that checks if array can be split into two equal sum subarrays.
+7. Write a function that returns maximum sum of non-adjacent elements.
+8. Create a function that finds all elements that appear more than ⌊n/3⌋ times.
+9. Write a function that returns first missing positive integer.
+10. Create a function that rotates array such that even indices contain even numbers.
+11. Write a function that returns maximum difference between any two elements (j > i).
+12. Create a function that returns count of subarrays with exactly K distinct elements.
+13. Write a function that returns minimum number of swaps to group all 1s together.
+14. Create a function that finds peak elements (greater than neighbors).
+15. Write a function that returns sum of all subarray minimums.
+
+🔹 Level 2: Advanced Logic (16–35)
+16. Write a function that finds longest subarray with sum divisible by K.
+17. Create a function that returns maximum sum circular subarray.
+18. Write a function that finds subarray with given XOR value.
+19. Create a function that returns number of subarrays with odd sum.
+20. Write a function that finds minimum window subarray containing all elements of another array.
+21. Create a function that returns largest rectangle area in histogram.
+22. Write a function that returns maximum sum of k-length subarray with unique elements.
+23. Create a function that returns count of pairs with difference K.
+24. Write a function that finds smallest subarray with sum ≥ target.
+25. Create a function that returns array of products except self (no division).
+26. Write a function that finds maximum length subarray with equal 0s, 1s, and 2s.
+27. Create a function that returns number of ways to partition array into 3 equal sum parts.
+28. Write a function that finds maximum number of chunks to make array sorted.
+29. Create a function that returns minimum jumps to reach end (jump game).
+30. Write a function that finds longest increasing subsequence length.
+31. Create a function that returns maximum sum of pairs with equal digit sum.
+32. Write a function that finds all triplets with sum = 0 (3Sum).
+33. Create a function that returns minimum operations to make array equal.
+34. Write a function that finds k closest elements to target.
+35. Create a function that returns maximum profit from stock buy/sell with multiple transactions.
+
+🔹 Level 3: Hard / Interview Killer (36–50)
+36. Write a function that returns median of two sorted arrays (O(log n)).
+37. Create a function that finds number of subarrays with sum in range [L, R].
+38. Write a function that returns maximum XOR of any pair in array.
+39. Create a function that finds minimum cost to merge stones (DP based).
+40. Write a function that returns count of reverse pairs (i < j, arr[i] > 2*arr[j]).
+41. Create a function that finds largest subarray with at most K replacements to make all equal.
+42. Write a function that returns minimum window to sort entire array.
+43. Create a function that finds count of subarrays where max element appears at least K times.
+44. Write a function that returns maximum sum path in two sorted arrays.
+45. Create a function that finds longest subarray where product ≤ K.
+46. Write a function that returns minimum number of operations to make array palindrome.
+47. Create a function that finds maximum alternating sum subsequence.
+48. Write a function that returns count of subarrays with median = K.
+49. Create a function that finds smallest range covering elements from K lists.
+50. Write a function that returns maximum score by choosing subarray and multiplying with minimum element.

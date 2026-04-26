@@ -172,9 +172,9 @@ bcdef();
 
 // 06). Understanding of Immediately Invoked function Expression (IIFE).
 
-(function() {
-    balance = 1000; // ReferenceError: balance is not defined
-})();
+// (function() {
+//     balance = 1000; // ReferenceError: balance is not defined
+// })();
 
 // 07). More in functions :- [Arrow function, fat Arrow, Anonymous, Higher Order, Callback, first class.].
 
@@ -187,9 +187,9 @@ fun();
 
 // Anonymous :- Bina naam ka function.
 
-function() {
-    console.log("Hey, Ajeet!"); // Error : they have no name.
-};
+// function() {
+//     console.log("Hey, Ajeet!"); // Error : they have no name.
+// };
 
 // Higher order function :-
 

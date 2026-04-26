@@ -1,0 +1,59 @@
+🔥 50 Mixed Loops + Functions Questions (Numbered Sequence)
+🔹 Level 1: Strong Intermediate (1–15)
+
+1. Write a function that returns the next greater number using same digits (if not possible return -1).
+2. Create a function that checks if a number is self-dividing (every digit divides the number).
+3. Write a function that returns count of numbers with unique digits in range [1, N].
+4. Create a function that finds smallest number whose digits multiply to a given value.
+5. Write a function that returns sum of all numbers whose digits form palindrome in range.
+6. Create a function that returns all numbers whose digit sum equals a prime number.
+7. Write a function that finds longest consecutive sequence in an array.
+8. Create a function that returns numbers whose digit difference alternates (+, - pattern).
+9. Write a function to compress a string (run-length encoding).
+10. Create a function that returns sum of numbers whose reversed form is divisible by K.
+11. Write a function that returns count of numbers with exactly K set bits (binary).
+12. Create a function that returns maximum product of two digits in a number.
+13. Write a function that returns numbers whose square root is an integer AND digit sum is even.
+14. Create a function that checks if a number can be split into two parts such that sum(left) = sum(right).
+15. Write a function that returns count of numbers where digits are strictly decreasing.
+
+🔹 Level 2: Advanced Logic (16–35)
+
+16. Write a function that returns all numbers whose rotation is always divisible by K.
+17. Create a function that finds all subarrays whose product is less than K.
+18. Write a function that returns numbers whose digit positions satisfy Fibonacci sequence rule.
+19. Create a function that finds maximum length subarray with equal 0s and 1s.
+20. Write a function that returns numbers where sum of prefix digits equals suffix digits at multiple splits.
+21. Create a function that finds all numbers whose digit permutation count is even.
+22. Write a function that returns numbers where sum of cubes of digits equals sum of squares of digits.
+23. Create a function that finds all circular primes up to N.
+24. Write a function that returns count of numbers whose binary representation has no consecutive 1s.
+25. Create a function that returns numbers whose digit product is divisible by digit sum.
+26. Write a function that finds maximum sum subarray with at least K elements.
+27. Create a function that returns numbers whose digits form arithmetic progression.
+28. Write a function that returns count of numbers where removing any one digit makes it divisible by 3.
+29. Create a function that finds all numbers whose reversed number is prime.
+30. Write a function that returns numbers whose digits can be partitioned into two equal-sum groups.
+31. Create a function that finds all numbers whose binary reverse equals original number.
+32. Write a function that returns numbers where every digit appears exactly twice.
+33. Create a function that finds minimum operations to convert one number to another (using +1, -1, *2).
+34. Write a function that returns numbers whose digits form zig-zag pattern (up-down).
+35. Create a function that finds longest subarray where difference between max and min ≤ K.
+
+🔹 Level 3: Hard / Interview Killer (36–50)
+
+36. Write a function that returns all numbers whose digits can be rearranged into a perfect square.
+37. Create a function that finds count of numbers where all prefixes are prime.
+38. Write a function that returns numbers where digit rotations produce all unique values.
+39. Create a function that finds minimum removals to make array strictly increasing.
+40. Write a function that returns numbers whose digits satisfy alternating sum divisible by K.
+41. Create a function that finds all numbers whose digit concatenation of multiples remains permutation.
+42. Write a function that returns numbers where sum of digit factorials equals reverse number.
+43. Create a function that finds maximum product subarray.
+44. Write a function that returns numbers whose digits can be split into prime segments.
+45. Create a function that finds count of numbers where digit difference pattern repeats cyclically.
+46. Write a function that returns numbers where replacing any digit with another keeps number composite.
+47. Create a function that finds longest substring with at most K distinct characters.
+48. Write a function that returns numbers whose digit sum sequence eventually becomes prime (iterative transform).
+49. Create a function that finds all numbers where each digit divides next digit in circular manner.
+50. Write a function that returns count of numbers whose digit graph forms a cycle (treat digits as nodes).

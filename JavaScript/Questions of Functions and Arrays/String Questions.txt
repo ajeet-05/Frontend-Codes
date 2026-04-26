@@ -1,0 +1,46 @@
+🔤 String Questions (Basic -> Intermediate -> Advanced)
+🔹 Basic Level (1–10)
+
+🔹 Intermediate Level (11–30)
+11. Find the length of a string (without using built-in function).
+12. Reverse a string (without using extra space).
+13. Check if a string is palindrome.
+14. Count number of vowels and consonants.
+15. Count frequency of each character in a string.
+16. Convert lowercase string to uppercase (without built-in).
+17. Remove all spaces from a string.
+18. Find first occurrence of a character.
+19. Find last occurrence of a character.
+20. Replace all spaces with a specific character (e.g., ‘-’).
+21. Count number of words in a string.
+22. Check if two strings are anagrams.
+23. Remove duplicate characters from a string.
+24. Find largest word in a sentence.
+25. Find smallest word in a sentence.
+26. Capitalize first letter of each word.
+27. Toggle case of each character.
+28. Check if string contains only digits.
+29. Extract only alphabets from a string.
+30. Reverse each word in a sentence.
+
+🔹 Advanced Level (31–50)
+31. Find longest substring without repeating characters.
+32. Find longest palindrome substring.
+33. Implement string compression (e.g., "aaabb" → "a3b2").
+34. Check if one string is rotation of another.
+35. Find all substrings of a string.
+36. Count number of substrings with only vowels.
+37. Find the first non-repeating character.
+38. Find the most frequent character.
+39. Implement strstr() (substring search without built-in).
+40. Check if string is valid palindrome (ignore special chars).
+41. Convert string to integer (implement atoi).
+42. Convert integer to string (without built-in).
+43. Group anagrams from list of strings.
+44. Find all permutations of a string.
+45. Find longest common prefix among strings.
+46. Check if two strings differ by one character.
+47. Validate parentheses (balanced brackets).
+48. Find minimum window substring.
+49. Implement Rabin-Karp algorithm (pattern matching).
+50. Implement KMP algorithm (pattern searching).

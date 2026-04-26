@@ -1,0 +1,56 @@
+🔥 50 Mixed Loop + Conditional Questions (Intermediate → Advanced → Hard)
+🔹 Level 1: Strong Intermediate (1–15)
+1. Given a number, repeatedly replace it with sum of its digits until it becomes a single digit. Return that digit.
+2. Find all numbers in range [1, N] whose digit sum is divisible by K.
+3. Count numbers in a range where number == reverse(number).
+4. Given N, count how many numbers have strictly increasing digits (e.g., 123, 456).
+5. Check if a number becomes palindrome after at most one digit removal.
+6. Find all numbers between 1–N that have exactly 3 divisors.
+7. Print numbers whose binary representation has equal number of 0s and 1s.
+8. Given N, count numbers where product of digits > sum of digits.
+9. Find numbers where sum of even digits equals sum of odd digits.
+10. Check if number can be expressed as sum of two primes.
+11. Count how many numbers in range have no repeated digits.
+12. Find all numbers whose digits alternate between even and odd.
+13. Count numbers divisible by K but not by M in range.
+14. Given a number, remove one digit such that resulting number is maximum.
+15. Find numbers whose first and last digit difference is prime.
+
+🔹 Level 2: Advanced Logic (16–35)
+16. Given N, find longest sequence of consecutive numbers where each number has increasing digit sum.
+17. Count numbers where reversing digits increases value.
+18. Find all numbers where digit frequency of each digit is equal.
+19. Count numbers whose digits form a geometric progression.
+20. Check if a number is cyclic (rotation of digits forms multiples).
+21. Find numbers whose square ends with the same digits as the number.
+22. Count numbers where sum of digits at prime indices equals sum at non-prime indices.
+23. Generate numbers whose digits form a palindrome pattern but number itself is not palindrome.
+24. Given range, count numbers where adjacent digits differ by exactly 1.
+25. Find numbers whose digit factorial sum is divisible by the number.
+26. Count numbers where removing any one digit results in a prime number.
+27. Find numbers where digits sorted ascending equals original number.
+28. Find numbers where digits sorted descending equals original number.
+29. Count numbers where sum of squares of digits is prime.
+30. Check if number becomes 1 using repeated “sum of squares of digits” (happy number variant).
+31. Count numbers whose binary representation is palindrome.
+32. Find numbers divisible by sum of their digits AND product of digits.
+33. Count numbers where digit difference between max and min digit ≤ K.
+34. Find numbers where swapping any two digits results in a larger number.
+35. Count numbers where sum of digits equals count of digits.
+
+🔹 Level 3: Hard / Interview Killer (36–50)
+36. Given N, count numbers whose digits can be rearranged to form a palindrome.
+37. Find all numbers where sum of digits of multiples (2x, 3x, 4x…) remain same.
+38. Count numbers where every prefix of the number is divisible by its length.
+39. Find numbers where deleting any digit always results in a smaller number.
+40. Given N, count numbers where digits strictly increase then strictly decrease (mountain numbers).
+41. Find numbers where sum of digits at even positions equals product at odd positions.
+42. Count numbers whose digit rotation (left shift) always produces smaller numbers.
+43. Find numbers where replacing any digit with 0 results in a number divisible by 9.
+44. Count numbers where every pair of adjacent digits forms a prime number.
+45. Find numbers where digit sum of prefix equals suffix at some split point.
+46. Count numbers whose digits can form at least one prime permutation.
+47. Find numbers where number of even digits > odd digits AND sum of odd digits > even digits.
+48. Count numbers where removing digits one by one always keeps number divisible by K.
+49. Find numbers whose digits form alternating increasing-decreasing pattern (zig-zag).
+50. Given N, count numbers where no two adjacent digits have same parity AND difference > 2.
