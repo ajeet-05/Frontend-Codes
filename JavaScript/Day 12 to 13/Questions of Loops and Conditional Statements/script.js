@@ -1,3 +1,5 @@
+// Loops :-
+
 // 1. Print numbers from 1 to 50 using a for loop?
 for (let a = 1; a <= 10; a++) {
     console.log(a);
